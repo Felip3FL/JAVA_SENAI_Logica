@@ -1,1 +1,1 @@
-JAVA_SENAI_Logica
+# SENAI-LogicaProfessor
